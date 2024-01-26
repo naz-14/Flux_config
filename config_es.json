@@ -41,37 +41,6 @@
       "autoPlay": true,
       "items": [
         {
-          "image": "https://i.imgur.com/mgiGFIy.jpeg",
-          "bannerWithProduct": false,
-          "background": "https://i.imgur.com/fjKEp32.jpeg",
-          "name": "",
-          "showSubcategory": false,
-          "video": "",
-          "category": "gid://shopify/Collection/467716505907",
-          "defaultShowProduct": false,
-          "products": []
-        },
-        {
-          "image": "https://i.imgur.com/geJ2bo4.jpeg",
-          "product": "8306912952627",
-          "bannerWithProduct": false,
-          "showSubcategory": false,
-          "video": "",
-          "defaultShowProduct": false,
-          "products": []
-        },
-        {
-          "image": "https://i.imgur.com/LkW2Ad6.jpeg",
-          "product": "8306913149235",
-          "bannerWithProduct": false,
-          "showSubcategory": false,
-          "video": "",
-          "enableBackward": false,
-          "defaultShowProduct": false,
-          "products": [],
-          "enableForward": false
-        },
-        {
           "image": "https://i.imgur.com/KtDMchA.jpeg",
           "product": "8306912657715",
           "bannerWithProduct": false,
